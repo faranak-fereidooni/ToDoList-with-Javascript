@@ -1,20 +1,20 @@
 body {
-  background: #352f5b;
+  background: #08003f;
 }
 
 .container {
-  max-width: 400px;
+  max-width: 500px;
 }
 
 input[type="text"],
 input[type="text"]:focus {
   color: #fff;
   border: none;
-  background: rgb(0, 0, 0, 0.2);
-  max-width: 400px;
+  background: rgba(2, 10, 133, 0.2);
+  max-width: 500px;
 }
 .todos li {
-  background: #423a6f;
+  background: #100079;
 }
 .delete {
   cursor: pointer;
